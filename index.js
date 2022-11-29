@@ -11,7 +11,7 @@ bot.on('message', msg => {
   if (msgFull > 0) 
   {
   bot.sendMessage(msg.chat.id, 'Спасибо за мем лох')
-  bot.forwardMessage(msg.chat_id = '@sushkismakomgroup', fromId, messageId); 
+  bot.forwardMessage(msg.chat_id = '-1001889469272', fromId, messageId); 
   }
   //console.log(msg)
   })
